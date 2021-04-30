@@ -1,0 +1,56 @@
+{
+  "builds": [
+    {
+      "name": "Blue Thunder Build",
+      "version": "1.8",
+      "url": "http://builds.blackeyerepo.xyz/BT/BlueThunder18.zip",
+      "gui": "http://",
+      "kodi": "18",
+      "theme": "http://",
+      "icon": "http://blackeye.drycloth.org/SLIKE/wizard/blue.thunder.jpg",
+      "fanart": "http://blackeye.drycloth.org/SLIKE/wizard/blue.thunder.jpg",
+      "preview": "https://youtu.be/n_i1N3W8iD4",
+      "adult": "no",
+      "description": "[COLOR lime]Build za Kodi 18.x Leia.[/COLOR] [COLOR white]Ne placajte ovu besplatnu instalaciju[/COLOR]. [COLOR lime]Blue Thunder Build Verzija 1.8[/COLOR][COLOR white]. Pratite nas na[/COLOR] [COLOR cyan]Facebook[/COLOR] [COLOR white]grupi:[/COLOR] [COLOR lime]Balkan Green[/COLOR] [COLOR white]ili putem[/COLOR] [COLOR cyan]web stranice[/COLOR] [COLOR lime]kodibalkan.org[/COLOR]. [COLOR white]Vas[/COLOR]  [COLOR lime]Kodi Balkan Green.[/COLOR]"
+    },
+    {
+      "name": "BlackEye Build",
+      "version": "2.9",
+      "url": "http://builds.blackeyerepo.xyz/BlackEye/BlackEye29.zip",
+      "gui": "http://",
+      "kodi": "18",
+      "theme": "http://",
+      "icon": "http://blackeye.drycloth.org/SLIKE/wizard/blackeyewiz.png",
+      "fanart": "http://blackeye.drycloth.org/SLIKE/wizard/blackeyewiz.png",
+      "preview": "https://youtu.be/n_i1N3W8iD4",
+      "adult": "no",
+      "description": "[COLOR lime]Build za Kodi 18.x Leia.[/COLOR] [COLOR white]Ne placajte ovu besplatnu instalaciju[/COLOR]. [COLOR lime]Blue Thunder Build Verzija 2.9[/COLOR][COLOR white]. Pratite nas na[/COLOR] [COLOR cyan]Facebook[/COLOR] [COLOR white]grupi:[/COLOR] [COLOR lime]Balkan Green[/COLOR] [COLOR white]ili putem[/COLOR] [COLOR cyan]web stranice[/COLOR] [COLOR lime]kodibalkan.org[/COLOR]. [COLOR white]Vas[/COLOR]  [COLOR lime]Kodi Balkan Green.[/COLOR]"
+    },
+    {
+      "name": "GreenLeia Build",
+      "version": "3.6",
+      "url": "http://builds.blackeyerepo.xyz/GreenLeia/GreenLeia36.zip",
+      "gui": "http://",
+      "kodi": "18",
+      "theme": "http://",
+      "icon": "http://blackeye.drycloth.org/SLIKE/wizard/wizard_leia.png",
+      "fanart": "http://blackeye.drycloth.org/SLIKE/wizard/wizard_leia.png",
+      "preview": "https://youtu.be/2IXvLRokUyE",
+      "adult": "no",
+      "description": "[COLOR lime]Build za Kodi 18.x Leia.[/COLOR] [COLOR white]Ne placajte ovu besplatnu instalaciju[/COLOR]. [COLOR lime]Blue Thunder Build Verzija 3.6[/COLOR][COLOR white]. Pratite nas na[/COLOR] [COLOR cyan]Facebook[/COLOR] [COLOR white]grupi:[/COLOR] [COLOR lime]Balkan Green[/COLOR] [COLOR white]ili putem[/COLOR] [COLOR cyan]web stranice[/COLOR] [COLOR lime]kodibalkan.org[/COLOR]. [COLOR white]Vas[/COLOR]  [COLOR lime]Kodi Balkan Green.[/COLOR]"
+    },
+    {
+      "name": "Kinder Build",
+      "version": "1.4",
+      "url": "http://builds.blackeyerepo.xyz/Kinder/Kinder14.zip",
+      "gui": "http://",
+      "kodi": "18",
+      "theme": "http://",
+      "icon": "http://blackeye.drycloth.org/SLIKE/wizard/kidswiz.png",
+      "fanart": "http://blackeye.drycloth.org/SLIKE/wizard/kidswiz.png",
+      "preview": "https://youtu.be/XVg6uVkNsDM",
+      "adult": "no",
+      "description": "[COLOR lime]Build za Kodi 18.x Leia.[/COLOR] [COLOR white]Ne placajte ovu besplatnu instalaciju[/COLOR]. [COLOR lime]Blue Thunder Build Verzija 1.4[/COLOR][COLOR white]. Pratite nas na[/COLOR] [COLOR cyan]Facebook[/COLOR] [COLOR white]grupi:[/COLOR] [COLOR lime]Balkan Green[/COLOR] [COLOR white]ili putem[/COLOR] [COLOR cyan]web stranice[/COLOR] [COLOR lime]kodibalkan.org[/COLOR]. [COLOR white]Vas[/COLOR]  [COLOR lime]Kodi Balkan Green.[/COLOR]"
+    }
+  ]
+}
